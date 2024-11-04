@@ -1,0 +1,1 @@
+./wish -c "echo Hola > /tmp/test.txt && cat /tmp/test.txt"

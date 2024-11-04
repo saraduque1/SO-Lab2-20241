@@ -1,0 +1,1 @@
+./wish -c "echo hola > file1 > file2"

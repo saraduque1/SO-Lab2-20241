@@ -1,0 +1,5 @@
+ls -l
+pwd
+whoami
+date
+echo "Este es un archivo batch de prueba"
