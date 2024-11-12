@@ -1,1 +1,0 @@
-./wish -c "cat /archivo/inexistente.txt"
